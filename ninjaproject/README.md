@@ -1,6 +1,9 @@
 # ninjaproject
 
 A new Flutter project.
+Take a look at the UI of the Ninja ID Card.
+![Screenshot (602)](https://user-images.githubusercontent.com/81528176/169655339-de61c7a7-19c6-41a2-9883-3d31842c7393.png)
+
 
 ## Getting Started
 
